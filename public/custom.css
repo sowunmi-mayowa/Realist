@@ -1,0 +1,17 @@
+#landing{
+    background-image: linear-gradient(#4a3db8cc 48%, #32e4b3cc 100%),  url("./assets/asset\ 57.jpeg");
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#cards{
+    top: -80px;
+}
+/* #catImg > img{
+    cursor: pointer;
+    background: black;
+    opacity: 0.98;
+} */
+/* .slick{
+    visibility: hidden;
+} */
